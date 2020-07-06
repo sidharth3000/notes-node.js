@@ -1,0 +1,23 @@
+{
+  "name": "note",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidharth3000/notes-node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidharth3000/notes-node.js/issues"
+  },
+  "homepage": "https://github.com/sidharth3000/notes-node.js#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "yargs": "^15.4.0"
+  }
+}
